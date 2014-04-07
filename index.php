@@ -4,6 +4,6 @@
 </head>
 <body>
 	Some image over here.
-	<p><?= "Hello World"; ?></p>
+	<p class="space"><?= "Hello World"; ?></p>
 </body>
 </html>
